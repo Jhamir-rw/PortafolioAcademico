@@ -40,6 +40,10 @@ Con la tecla **R** o el botón **Reiniciar**, todos los elementos vuelven a ser 
 #### F9 – Pantalla completa
 Pulsando la tecla **F**, la aplicación entra en modo de **pantalla completa**, permitiendo visualizar la ruleta sin distracciones.
 
+**📸 Imagen del ejercicio:**  
+![Ejer01](./ejer01.jpeg)
+---
+
 ---
 
 ## Ejercicio 2: Aplicación para Sorteo de Equipos
@@ -71,6 +75,10 @@ En la parte inferior de la pantalla se añaden tres botones:
 - **Copiar equipos por columna:** para exportar fácilmente los grupos formados.
 
 ---
+**📸 Imagen del ejercicio:**  
+![Ejer01](./ejer02.jpeg)
+---
+
 
 # Tema Desarrollado: Introducción a Node.js y React
 
