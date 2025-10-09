@@ -36,7 +36,7 @@ Se desarrolló una aplicación web en **React** con un diseño **responsivo** pa
 El proyecto incluye **7 componentes** (uno por cada sección), aplicando **CSS puro** para lograr la distribución visual.
 
 **📸 Imagen del ejercicio:**  
-![Ejer01](./Ejer01.png)
+![Ejer01](./ejer01.jpeg)
 
 ---
 
@@ -48,7 +48,7 @@ Se construyó una aplicación con **4 componentes anidados**, donde:
 - Los datos viajan hasta el **componente 4**, que los muestra en un **card visual**.
 
 ** Imagen del ejercicio:**  
-![Ejer02](./Ejer02.png)
+![Ejer02](./ejer02.jpeg)
 
 ---
 
@@ -62,7 +62,7 @@ En este ejercicio se trabajó con **dos componentes**:
 Este ejemplo refuerza el manejo de datos entre componentes y el **flujo unidireccional de React**.
 
 **📸 Imagen del ejercicio:**  
-![Ejer03](./Ejer03.png)
+![Ejer03](./ejer03.jpeg)
 
 ---
 
@@ -73,7 +73,7 @@ Se desarrolló una tabla que muestra los datos de un objeto con los campos:
 Los datos fueron renderizados usando componentes y mostrados dentro de una tabla con estilos en **CSS**.
 
 **📸 Imagen del ejercicio:**  
-![Ejer04](./Ejer04.png)
+![Ejer04](./ejer04.jpeg)
 
 ---
 
@@ -83,5 +83,5 @@ En este último ejercicio, se trabajó con **componentes hermanos**, donde los d
 Cada componente hermano muestra la información recibida de manera independiente.
 
 **📸 Imagen del ejercicio:**  
-![Ejer05](./Ejer05.png)
+![Ejer05](./ejer05.jpeg)
 
